@@ -12,5 +12,5 @@ body = JSON.stringify(obj);
 $done({body});
 
 
-$notification.post("Storm Sniffer","Network Debug Tool","FGR Get it!!!")
+$notification.post("Storm Sniffer","Network Debug Tool","Dragon Get it!!!")
 
